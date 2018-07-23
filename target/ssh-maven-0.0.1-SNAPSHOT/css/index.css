@@ -1,0 +1,57 @@
+
+
+#box-table-a {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	margin-top: 5px;
+	margin-left: 30px;
+	text-align: left;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+
+
+}
+
+#box-table-a th {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 9px;
+	word-break: keep-all;
+	background: #30a5ff;
+	border-top: 10px solid #30a5ff;
+	border-bottom: 1px solid #fff;
+	color: #fff;
+}
+
+#box-table-a td {
+	white-space: nowrap;
+	word-break: keep-all;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding: 5px;
+	background: #e8edff;
+	border-bottom: 1px solid #fff;
+	color: #669;
+	border-top: 1px solid transparent;
+}
+
+#box-table-a tr:hover td {
+	background: #79C3DF;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
